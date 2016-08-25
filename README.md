@@ -7,7 +7,7 @@
 
 ![ScreenShot](https://cloud.githubusercontent.com/assets/1693027/17946767/06a50ba2-6a4a-11e6-91c2-d6bbb0ad2bc8.png)
 
-#Prerequiste
+##Prerequiste
 * [Node.js](https://nodejs.org)
 
 ## Usage
